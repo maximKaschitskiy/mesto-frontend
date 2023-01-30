@@ -120,7 +120,7 @@ class Api {
     }
 }
 
-const baseUrl = process.env.NODE_ENV === 'production' ? 'https://example.com' : process.env.REACT_APP_DEV_API_URL;
+const baseUrl = process.env.NODE_ENV === 'production' ? 'https://mesto-api-five.vercel.app' : process.env.REACT_APP_DEV_API_URL;
 
 const addApi = new Api(baseUrl);
 export default addApi;
