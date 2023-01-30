@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/mesto-frontend/static/css/main.48cdc27d.chunk.css",
-    "main.js": "/mesto-frontend/static/js/main.04a3561c.chunk.js",
-    "main.js.map": "/mesto-frontend/static/js/main.04a3561c.chunk.js.map",
-    "runtime-main.js": "/mesto-frontend/static/js/runtime-main.d80ec0a5.js",
-    "runtime-main.js.map": "/mesto-frontend/static/js/runtime-main.d80ec0a5.js.map",
-    "static/js/2.0ec11668.chunk.js": "/mesto-frontend/static/js/2.0ec11668.chunk.js",
-    "static/js/2.0ec11668.chunk.js.map": "/mesto-frontend/static/js/2.0ec11668.chunk.js.map",
-    "static/js/3.0f553367.chunk.js": "/mesto-frontend/static/js/3.0f553367.chunk.js",
-    "static/js/3.0f553367.chunk.js.map": "/mesto-frontend/static/js/3.0f553367.chunk.js.map",
+    "main.js": "/mesto-frontend/static/js/main.2bb09f25.chunk.js",
+    "main.js.map": "/mesto-frontend/static/js/main.2bb09f25.chunk.js.map",
+    "runtime-main.js": "/mesto-frontend/static/js/runtime-main.cf2cc941.js",
+    "runtime-main.js.map": "/mesto-frontend/static/js/runtime-main.cf2cc941.js.map",
+    "static/js/2.4d9beabf.chunk.js": "/mesto-frontend/static/js/2.4d9beabf.chunk.js",
+    "static/js/2.4d9beabf.chunk.js.map": "/mesto-frontend/static/js/2.4d9beabf.chunk.js.map",
+    "static/js/3.0da185d1.chunk.js": "/mesto-frontend/static/js/3.0da185d1.chunk.js",
+    "static/js/3.0da185d1.chunk.js.map": "/mesto-frontend/static/js/3.0da185d1.chunk.js.map",
     "index.html": "/mesto-frontend/index.html",
     "static/css/main.48cdc27d.chunk.css.map": "/mesto-frontend/static/css/main.48cdc27d.chunk.css.map",
-    "static/js/2.0ec11668.chunk.js.LICENSE.txt": "/mesto-frontend/static/js/2.0ec11668.chunk.js.LICENSE.txt",
+    "static/js/2.4d9beabf.chunk.js.LICENSE.txt": "/mesto-frontend/static/js/2.4d9beabf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mesto-frontend/static/media/Vector.cfd603a7.svg",
     "static/media/fail.d4ce2a26.svg": "/mesto-frontend/static/media/fail.d4ce2a26.svg",
     "static/media/header__logo.6a0a6fc2.svg": "/mesto-frontend/static/media/header__logo.6a0a6fc2.svg",
     "static/media/success.a9eb6caf.svg": "/mesto-frontend/static/media/success.a9eb6caf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d80ec0a5.js",
-    "static/js/2.0ec11668.chunk.js",
+    "static/js/runtime-main.cf2cc941.js",
+    "static/js/2.4d9beabf.chunk.js",
     "static/css/main.48cdc27d.chunk.css",
-    "static/js/main.04a3561c.chunk.js"
+    "static/js/main.2bb09f25.chunk.js"
   ]
 }
